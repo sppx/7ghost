@@ -1,6 +1,6 @@
 <?php return array (
   'password' => 'ppx.ink',
-  'host' => 'https://www.google.com.ink/',
+  'host' => 'https://www.google.com.hk/',
   'replaceDomain' => '0',
   'relativeHTML' => '0',
   'relativeCSS' => '0',
