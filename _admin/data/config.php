@@ -1,6 +1,6 @@
 <?php return array (
-  'password' => '7ghost',
-  'host' => 'http://www.google.com/',
+  'password' => 'ppx.ink',
+  'host' => 'https://www.google.com.ink/',
   'replaceDomain' => '0',
   'relativeHTML' => '0',
   'relativeCSS' => '0',
